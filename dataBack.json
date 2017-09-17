@@ -1,0 +1,29 @@
+{
+    "code": "N01",
+    "message": "调用成功",
+    "contents": {
+        "list": [
+            {
+                "order_no": "out2017071803011",
+                "create_time": 1500393600,
+                "update_time": 0,
+                "order_type": "批发",
+                "order_debt": 0,
+                "order_sumprice": 160,
+                "client_no": "420116199503025xxx",
+                "user_no": "nt002002"
+            },
+            {
+                "order_no": "out2017071803012",
+                "create_time": 1500393601,
+                "update_time": 0,
+                "order_type": "零售",
+                "order_debt": 0,
+                "order_sumprice": 200,
+                "client_no": "42011619950302xxxx",
+                "user_no": "nt002004"
+            }
+        ],
+        "size": 2
+    }
+}
